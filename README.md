@@ -36,7 +36,7 @@ You can install using the pip package manager by running
 ### From source
 Clone the repo and install:
 
-    git clone https://github.com/limexp/xgbfir.git
+    git clone https://github.com/limersdxp/xgbfir.git
     cd xgbfir
     sudo python setup.py install
 	
@@ -120,9 +120,4 @@ booster.dump_model('xgb.dump', with_stats=True)
 * xlsxwriter (>=0.9.3)
 
 
-## Contributing
-
-Please see [CONTRIBUTING.md](CONTRIBUTING.md).
-
-Feel free to [open issues](https://github.com/limexp/xgbfir/issues) or pull requests.
 
